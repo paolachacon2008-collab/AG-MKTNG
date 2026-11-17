@@ -15,7 +15,7 @@ Lista de todo lo que falta confirmar antes de publicar. En la web, lo pendiente 
 ## 🟡 Datos del negocio
 
 - [ ] Horario: confirmar "todos los días de 12:00 a 16:00 y de 20:00 a 24:00" → `datos/horario.js` (después, poner `pendienteConfirmar: false`)
-- [ ] Número de reseñas en Google → `datos/contacto.js` (`numeroResenas`)
+- [x] Número de reseñas en Google: 333 (17/11/2026). Actualizarlo de vez en cuando en `datos/contacto.js` (`numeroResenas`)
 - [ ] Enlace para dejar reseña: Perfil de Empresa de Google → "Pedir reseñas" → `datos/contacto.js` (`enlaceResena`). *Mientras tanto, el botón lleva a la ficha de Google Maps.*
 - [ ] Coordenadas (latitud y longitud) desde Google Maps → `datos/contacto.js`. Mejoran los datos para Google.
 - [ ] Facebook: ¿existe la página? Enlace → `datos/contacto.js`

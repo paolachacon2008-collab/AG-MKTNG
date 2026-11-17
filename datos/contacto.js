@@ -26,7 +26,7 @@ window.CONTACTO = {
   googleMaps: "https://maps.app.goo.gl/hGrcqrFw3Lq9ghED9",
   enlaceResena: "",                          // [CONFIRMAR] enlace "Pedir reseñas" del Perfil de Empresa de Google
   notaGoogle: "4,7",
-  numeroResenas: "",                         // [CONFIRMAR] p. ej. "312"
+  numeroResenas: "333",                      // actualizado 17/11/2026
   rangoPrecio: "20–30 € por persona",
   // Coordenadas para Google (opcional). [CONFIRMAR] sacarlas de Google Maps
   latitud: "",
