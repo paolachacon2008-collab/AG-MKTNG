@@ -4,11 +4,7 @@ Lista de todo lo que falta confirmar antes de publicar. En la web, lo pendiente 
 
 ## 🔴 Bloqueantes: no publicar sin resolverlos
 
-- [ ] **Fotos de clientas sin permiso.** En "Platos estrella" se usan dos fotos subidas a Google Maps por clientas:
-  - *Flor de alcachofas*: foto de **María Márquez Torres** → `img/alcachofas-*`
-  - *Fideos tostados*: foto de **Carolina R.** → `img/fideos-tostados-*`
-
-  Publicarlas sin su permiso infringe sus derechos de autor (Ley de Propiedad Intelectual, art. 17) y las condiciones de Google Maps. **Opciones:** (a) pedirles permiso por escrito, por ejemplo respondiendo a su reseña o por mensaje, y mantener el crédito; o (b) sustituirlas por fotos propias del local. Si se sustituyen, quita el campo `credito` en `datos/carta.js`.
+- [x] **Permiso de las fotos de clientas.** Confirmado (17/11/2026): hay permiso de las clientas (María Márquez Torres, alcachofas; Carolina R., fideos tostados), además de las fotos propias y de los trabajadores. Se mantiene el crédito con su nombre en la foto. *Recomendación:* guardar ese permiso por escrito (captura del mensaje o email) por si algún día hay que demostrarlo.
 - [ ] **Dirección exacta** (calle, número y código postal), copiada **tal cual** de la ficha de Google → `datos/contacto.js`
 - [ ] **Nombre en Google.** La ficha de Google Maps lo escribe "Taberna **l**a New" (con *l* minúscula) y el logo "TABERNA LA NEW". La web usa ahora "Taberna la New", igual que Google. Decidid una forma y usadla igual en todas partes: Google, Instagram, web y directorios.
 - [ ] **Dominio** → sustituir `https://DOMINIO-POR-CONFIRMAR` (ver LEEME, apartado 4)
@@ -25,7 +21,8 @@ Lista de todo lo que falta confirmar antes de publicar. En la web, lo pendiente 
 - [ ] Facebook: ¿existe la página? Enlace → `datos/contacto.js`
 - [ ] WhatsApp: ¿se puede reservar por WhatsApp con el 611 672 197? → `datos/contacto.js`
 - [ ] Hosting: ¿Hostinger u otro?
-- [ ] Ezequiel: ¿quiere salir en la web con foto y nombre? ¿Apellido? (En el cartel del local hay una firma que no se lee bien; no se ha usado.) → `index.html`, sección "La casa"
+- [x] Ezequiel: tiene permiso para salir en la web con foto y nombre (confirmado 17/11/2026).
+- [ ] Ezequiel: ¿apellido? (opcional; la firma del cartel no se lee bien y no se ha usado) → `index.html`, sección "La casa"
 - [ ] Grupos: capacidad máxima y si hay menú de grupo → `index.html`, sección "Grupos"
 
 ## 🟡 Carta
