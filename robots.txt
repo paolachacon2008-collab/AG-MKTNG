@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /herramientas/
+Disallow: /fotos-originales/
+
+Sitemap: https://DOMINIO-POR-CONFIRMAR/sitemap.xml
