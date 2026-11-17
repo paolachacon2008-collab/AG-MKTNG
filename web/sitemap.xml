@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/carta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/carta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/menu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/carta/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/en/menu/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/carta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/menu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/carta/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/historia/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/historia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/our-story/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/historia/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/en/our-story/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/historia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/our-story/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/historia/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/cafe-en-grano/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/cafe-en-grano/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/coffee-beans/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/cafe-en-grano/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/en/coffee-beans/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/cafe-en-grano/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/coffee-beans/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/cafe-en-grano/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/visitanos/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/visitanos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/visit-us/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/visitanos/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-PENDIENTE/en/visit-us/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://DOMINIO-PENDIENTE/visitanos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMINIO-PENDIENTE/en/visit-us/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-PENDIENTE/visitanos/"/>
+  </url>
+</urlset>
