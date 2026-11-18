@@ -17,7 +17,9 @@ Web estática (HTML, CSS y JavaScript sin frameworks) de **11N Brasserie**, cafe
 | `img/`, `fonts/` | Fotos optimizadas y fuentes | Solo para cambiar fotos |
 | `fotos-originales/`, `herramientas/` | Capturas de partida y script de fotos. **No se suben al hosting** | — |
 
-## 1. Ver la web en tu ordenador
+## 1. Ver la web
+
+- **En el móvil o para enseñarla:** abre **`vista-previa-11n.html`**. Es la web entera (las 8 páginas, fotos y fuentes) metida en un solo archivo. Si cambias algo, vuelve a crearla con `python3 herramientas/vista_previa.py`. **No se sube al hosting.**
 
 - **Rápido:** haz doble clic en `index.html`. Funciona en Chrome y Edge. En Firefox puede que no carguen las fuentes.
 - **Recomendado** (se ve exactamente como en internet): abre una terminal en esta carpeta y escribe:
@@ -61,7 +63,7 @@ vacaciones: [
 ## 4. Subir la web a Hostinger
 
 1. Entra en hPanel → **Administrador de archivos** → carpeta **`public_html`**.
-2. Sube **todo** el contenido de esta carpeta **excepto** `fotos-originales/`, `herramientas/`, `README.md` y `PENDIENTES.md`. Incluye el archivo oculto `.htaccess` (activa la compresión y la caché).
+2. Sube **todo** el contenido de esta carpeta **excepto** `fotos-originales/`, `herramientas/`, `vista-previa-11n.html`, `README.md` y `PENDIENTES.md`. Incluye el archivo oculto `.htaccess` (activa la compresión y la caché).
 3. Activa el **SSL gratuito** en el panel. Cuando funcione `https://`, descomenta las 3 últimas líneas de `.htaccess` para forzar https.
 4. Antes de publicar, haz **Buscar y reemplazar** de `https://DOMINIO-POR-CONFIRMAR` por el dominio real (con `https://` y sin barra final) en todos los `.html`, `robots.txt` y `sitemap.xml`.
 5. Abre la web en el móvil y comprueba que todo se ve bien.
